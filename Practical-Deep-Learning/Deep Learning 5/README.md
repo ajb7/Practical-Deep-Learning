@@ -1,2 +1,0 @@
-# Deep Learning 5: MNIST Image Classification: CNN
-Our goal is to train model from scratch using a very small dataset. We will eventually classify images of cats and dogs. Dataset has 4000 pictures of cats and dogs (2000 each). We use 2000 for training, 1000 for validation and 1000 for testing.
